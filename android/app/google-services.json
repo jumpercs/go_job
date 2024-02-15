@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291518603261",
+    "project_id": "gojob-73262",
+    "storage_bucket": "gojob-73262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291518603261:android:40d0bf6698c65926790394",
+        "android_client_info": {
+          "package_name": "com.example.go_job"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjvaa97tePrbVztcfOW9pX1SYlZx-tmAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
